@@ -1,0 +1,90 @@
+h1 {
+    background-color: #ffd700;
+  }
+  
+  p {
+    background: rgb(120, 120, 120, 0.884);;
+  }
+  
+  body {
+    font-family: "Roboto Mono", monospace;
+    min-height: auto;
+    background-image: url("./img/fundo.jpg");
+    background-color: #000000;
+    background-size: cover;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+    width: 200px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+    width: 200px;
+    
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+
+  #conversores {
+    margin: auto;
+    width: 420px;
+    
+  }
+  
+  #conversorUSD {
+    position:relative;
+    left: 10px;
+    width: 200px;
+    
+  }
+  button {
+    margin-top: 5px;
+    background-color: white;
+    color: black;
+    border: 2px solid rgb(120, 120, 120, 0.884);
+    transition-duration: 0.4s;
+  }
+  button:hover{
+    background-color: rgb(120, 120, 120, 0.884);
+    color: black;
+  }
+  
+  #conversorBRL {
+    position:relative;
+    left: 210px;
+    width: 200px;
+    top: -87px;
+  }
+  
+  .resultado {
+    position: relative;
+    color: black;
+    height: 30px;
+    top: -50px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    border: 2px solid rgb(120, 120, 120, 0.884);
+    transition-duration: 0.4s;
+  }
