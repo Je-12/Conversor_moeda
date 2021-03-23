@@ -1,6 +1,6 @@
-# Desafio: Conversor de moeda 
+# Projeto: Conversor de moeda 💰
 
 ##Conteudo:
-  - Desafio Alura 
+  - Desafio Alura ✔️
   - Imersão Dev - Aula 01
   - Pagina de conversão de valores (Real e Dolar).
